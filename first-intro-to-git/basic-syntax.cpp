@@ -7,5 +7,5 @@ int main(){
     cout << "Basics of c++:";
     cout << "basics of l++ languages:";
     cout << "first to add any git you have to change tyhe directory  so that we can add this to repository of git";
-    cout < "heloo world:";
+    cout << "git push name main";
 }
