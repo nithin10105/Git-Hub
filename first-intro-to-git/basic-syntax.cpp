@@ -10,5 +10,7 @@ int main(){
     cout << "git push name main";
     cout << "git push origin main";
     cout<<"this is from git hub to vscode";
+    cout << "this is last commit iin my code";
+    cout << " now iam pushing all the files vscode to git hub";
     
 }
