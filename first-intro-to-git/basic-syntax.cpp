@@ -9,5 +9,6 @@ int main(){
     cout << "first to add any git you have to change tyhe directory  so that we can add this to repository of git";
     cout << "git push name main";
     cout << "git push origin main";
+    cout<<"this is from git hub to vscode";
     
 }
